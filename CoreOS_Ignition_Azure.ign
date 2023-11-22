@@ -41,7 +41,7 @@
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB6/IxCBktBOWtGtst3Ma8mjUbrZCus1/1qaaNLqHnnf luis.herrera@oneprimal.com",
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDxNx11xwk27p1xbkp5jhS8uWtO2ng9bPylxWzcIStiF devser@oneprimal.com",
-          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC34yZr2vDDMrE1T+B+3aviG1zZPeJRCZC9MbDYRXPI4 admin"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC34yZr2vDDMrE1T+B+3aviG1zZPeJRCZC9MbDYRXPI4 admin",
         ]
       }
     ]
